@@ -4,9 +4,8 @@ Collection of papers from mathematical modeling competitions I participated in d
 
 ## Achievements and Honors
 
-- Mathematical Contest in Modeling (MCM) 2021: Meritorious Winner
-- Mathematical Contest in Modeling (MCM) 2022: Meritorious Winner
-- China Graduate Mathematical Modeling Competition: National Third Prize
+- Mathematical Contest in Modeling (MCM) 2021/2022: Meritorious Winner
+- China Graduate Mathematical Modeling Competition 2023/2024: National Third Prize
 
 ## Papers List
 
@@ -17,6 +16,8 @@ Here is a list of the competition papers included in this repository:
 3. **War for Talent (2022)** - Analyzes the global competition for skilled talent, earning a ticket to participate in the 2022 MCM.
 4. **Ethylene (2021)** - A detailed study on ethylene production processes, narrowly missing a recommendation for the national competition.
 5. **Seg Brain (China Graduate Competition)** - This paper, which delves into brain segmentation techniques, was awarded a National Third Prize in the China Graduate Mathematical Modeling Competition.
+5. **pcnn core loss (China Graduate Competition)** - This paper involves predicting core loss using a physical constrained neural network, winning a National Third Prize in the China Graduate Mathematical Modeling Competition.
+6. **FIV measure** - This paper is just a course work about measuring flow induced vibration, yet we pay so much attention to it.
 
 ## My Collaborators
 
